@@ -1,5 +1,5 @@
 {
-  "homepage": "https://calculator-madza.netlify.app",
+  "homepage": "http://localhost:3000/",
   "name": "calculator",
   "version": "0.1.0",
   "private": true,
